@@ -3,7 +3,7 @@
 This project is a React application that demonstrates the use of React Router for client-side routing. Built with Vite and React, the website features multiple pages, a navigation menu, and a responsive design.
 
 ## Visit the Live Website : 
-https://currency-converter-using-react-gurdits-projects.vercel.app/
+https://1-git-main-gurdits-projects.vercel.app/github
 
 ## Screenshots and Videos
 - Screenshots of the UI: 
